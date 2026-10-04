@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.vscode/
+.idea/
+*.mp4
+*.csv
+*.pt
